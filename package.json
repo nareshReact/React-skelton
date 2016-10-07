@@ -1,10 +1,10 @@
 {
-  "name": "react-skelton",
+  "name": "react-ingredients",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start":"watchify src/main.jsx -v -t [babelify --presets [ react ] ] -o public/js/main.js",
+    "start":"watchify src/main.jsx -v -t [babelify --presets [ react ] ] -o public/js/main1.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
